@@ -1,5 +1,5 @@
 <h1>Small Documentation </h1>
-cp https://github.com/mohamad-24/Hybrid-encrypt-and-decrypt-image-project/blob/master/1.png
+<img src="https://github.com/mohamad-24/Hybrid-encrypt-and-decrypt-image-project/blob/master/1.png" width="128"/>
 <p> output of code appear in the screen </p>
 <p>There are 3 possibilities
 <ul>
