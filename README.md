@@ -8,7 +8,7 @@
 <li>3 to quit</li>
 </ul>
 </p>
-<img src="https://github.com/mohamad-24/Hybrid-encrypt-and-decrypt-image-project/blob/master/2.png" width="200"/>
+<img src="https://github.com/mohamad-24/Hybrid-encrypt-and-decrypt-image-project/blob/master/2.PNG" width="200"/>
 <p> when you press 1 the images and data encryption will run</p>
 <img src="https://github.com/mohamad-24/Hybrid-encrypt-and-decrypt-image-project/blob/master/3.png" width="200"/>
 <p>when you press e the images and data decryption will run</p>
