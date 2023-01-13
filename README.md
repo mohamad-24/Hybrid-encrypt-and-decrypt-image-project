@@ -1,6 +1,6 @@
 <h1>Small Documentation </h1>
-![Screenshot](1.png)
-<h2> output of code appear in the screen </h2>
+<body>![Screenshot](1.png)</body>
+<p> output of code appear in the screen </p>
 <p>There are 3 possibilities
 <ul>
 <li>1 to encypt</li>
